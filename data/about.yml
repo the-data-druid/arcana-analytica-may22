@@ -1,0 +1,63 @@
+#########################3 history ############################
+history:
+  enable : true
+  image: "images/Profile.jpg"
+  subtitle : "A Brief Biography"
+  title : "Curious, Effervescent, & Erudite"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+
+
+################################ Team ###########################
+team:
+  enable : true
+  subtitle : "Lives I've Lived"
+  title : "My Road To Data Science"
+  team_member:
+    # team member loop
+    - name : "Senior Consumer Growth Analyst"
+      image : "images/team/logo-mfour.jpg"
+      image_bg : "images/team/bg-blue.jpg"
+      designation : "MFour Mobile Research"
+
+    # team member loop
+    - name : "Consumer Data Quality & Lifecycle Analyst"
+      image : "images/team/logo-vans.jpg"
+      image_bg : "images/team/bg-green.jpg"
+      designation : "Vans"
+
+    # team member loop
+    - name : "Data Scientist"
+      image : "images/team/logo-ag.jpg"
+      image_bg : "images/team/bg-pink.jpg"
+      designation : "AutoGravity"
+
+
+############################### philosophy ###########################
+philosophy:
+  enable : true
+  subtitle : "My Philosophy of Life"
+  title : "A Work In Progress"
+  image : "images/philo-anthurium.jpg"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore agna liquam fina water. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat aute irure dolor in reprehenderit. in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+
+  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium"
+
+
+############################ Clients ################################
+clients:
+  enable : false
+  subtitle : "Our Clients"
+  title : "They Trust Us"
+  clients_logo:
+    - images/clients/client-logo-01.jpg
+    - images/clients/client-logo-02.jpg
+    - images/clients/client-logo-03.jpg
+    - images/clients/client-logo-04.jpg
+    - images/clients/client-logo-05.jpg
+    - images/clients/client-logo-06.jpg
+    - images/clients/client-logo-07.jpg
+    - images/clients/client-logo-08.jpg

@@ -1,0 +1,96 @@
+######################## Banner ############################
+banner:
+  enable : true
+  bg_image: "images/hero/hero-bg-2.jpg"
+  title : "Arcana Analytica"
+  content : "Demystifying the **Arcane Arts of Data Science** through <br>
+   **Divination, Numeromancy, & Data Vizadry**."
+  button:
+    enable : true
+    label : "My Portfolio"
+    link : "works"
+
+################### Service #################################
+service:
+  enable : true
+  bg_image : "images/shape-big.png"
+  subtitle : "What I Do"
+  title : "Data Is The Foundation <br> of All Information & Knowledge"
+  service_item:
+
+ # service item loop
+    - name : "Deep-Dive Analysis & Insights"
+      icon : "images/insights.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+ # service item loop
+    - name : "Consumer Personas & Segmentation"
+      icon : "images/segmentation.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+# service item loop
+    - name : "Data Visualization & Dashboarding"
+      icon : "images/dashboard.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+# service item loop
+    - name : "Data Maniupulation & Transformation"
+      icon : "images/exploration.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+ # service item loop
+    - name : "Consumer Journey & Lifecycle"
+      icon : "images/lifecycle.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+ # service item loop
+    - name : "Data Governance & Automation"
+      icon : "images/governance.png"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore."
+
+############################# portfolio ############################
+portfolio:
+  enable : true
+  subtitle : "Portfolio"
+  title : "A Showcase Of My Work"
+
+  # portfolio item comes from `content/work/` folder
+
+
+############################ testimonial ###########################
+testimonial:
+  enable : true
+  subtitle : "Testimonials"
+  title : "What Is It Like To <br> Work With Me?"
+  testimonial_item:
+    # testimonial item loop
+    - name : "Lalida Sriyorda-Kwok"
+      image : "images/testimonial/quote-personLS.png"
+      designation : "Lead Consumer Lifecycle Mananagement Analyst, Vans"
+      content : "Jake is an incredible colleague. He is unique in his ability to weave his interests and knowledge together and has great talent in data and analytics. He is simultaneously technically adept and business savvy all while taking the time to create meaningful relationships with those he works with.
+      <br><br>During the last few years I worked with Jake, whether it be our discussion on strategizing new ways to uniquely pull segments or getting his thoughts on a deck, he was able to pull experience and ideas from multiple areas to give great input and feedback. He is a fantastic and talented human being."
+
+    # testimonial item loop
+    - name : "Mark Humphrey"
+      image : "images/testimonial/quote-personMH.png"
+      designation : "VP of Business Development, AutoGravity"
+      content : "Jake Weber is an enthusiastic and hard-working young man, who I believe would be an asset to any team he joins. He is highly innovative and detail orientated with a strong will to learn, consistently asking questions to extend his own knowledge and understanding. He impressed me with his ability to quickly comprehend new, complex ideas and works well under challenging conditions.
+      <br><br>Jake is a problem-solver who sees a challenge as an opportunity to grow, displaying character and desire that are must have characteristics I look for during the hiring process. Jake has a great future ahead of him for any of his career aspirations. "
+
+    # testimonial item loop
+    - name : "Danny Salinas"
+      image : "images/testimonial/quote-personDS.png"
+      designation : "Director of Data Science, AutoGravity"
+      content : "Jake is everything you look for in an analyst. He is not simply curious about how things work but is always looking for better ways to get the job done. He is hard working and dedicated to doing something right the first time. He is an amazingly fast learner who picks up new skills like a sponge. He is extremely coachable and looks forward to all feedback.
+      But probably my favorite thing about him is he is an absolute pleasure to work with and the kind of person who makes your day brighter from just interacting with him. Jake is a superstar, and I look forward to hearing more about his accomplishments in the near future."
+
+
+################# call to action ##################################3
+call_to_action:
+  enable : true
+  title : "Interseted In Teaming Up?"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus asperiores dignissimos cupiditate! Necessitatibus distinctio molestiae omnis tempora facere in cum?"
+  button:
+    enable : true
+    label : "Let's Chat!"
+    link : "contact"
