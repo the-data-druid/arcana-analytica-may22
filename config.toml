@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://arcanaanalytica.com/"
+baseURL = "https://jakeweber.io/"
 languageCode = "en-us"
 title = "Jake Weber's Arcana Analytica"
 theme = "icelab-hugo"
